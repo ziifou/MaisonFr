@@ -8,7 +8,7 @@ I created  this project while learning React .
 
 ### Demo
 
-Link : 
+Link : https://maisonfrr.netlify.app/
 
 ### Technologies :
 
@@ -24,7 +24,7 @@ Link :
 
 ### Future improvements plan:
 
-- give the clients the possibility to delete and edit their ads
+- give clients the possibility to delete and edit their ads
 - fix  Google map API (Geocoding) 
 
 
