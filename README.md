@@ -26,6 +26,8 @@ Link : https://maisonfrr.netlify.app/
 
 - give clients the possibility to delete and edit their ads
 - fix  Google map API (Geocoding) 
+- sign-in using google account or facebook
+- improve the design
 
 
 
