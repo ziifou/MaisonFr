@@ -2,7 +2,6 @@
 
 **MaisonFr** is a real estate marketplace website that brings together buyers, sellers, landlords, renters, agents and facilitate their communication.
 
-I created  this project while learning React .
 
 ------
 
