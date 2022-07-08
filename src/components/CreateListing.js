@@ -403,7 +403,7 @@ function CreateListing() {
               max="750000000"
               required
             />
-            {type === "rent" && <p className="formPriceText">$ / Mois</p>}
+            {type === "rent" && <p className="formPriceText">€ / Mois</p>}
           </div>
 
           {offer && (
